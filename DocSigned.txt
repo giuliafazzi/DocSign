@@ -1,0 +1,12 @@
+-----BEGIN DOCSIGNED-----
+doc:a
+alg:RSA
+hash:SHA1
+assinante:Yeda Regina Venturini
+
+-----BEGIN DOC-----
+[B@38cccef
+-----END DOC-----
+-----BEGIN SIGNATURE-----
+-----END SIGNATURE-----
+-----END DOCSIGNED-----
